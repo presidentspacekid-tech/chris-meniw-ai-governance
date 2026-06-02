@@ -86,3 +86,63 @@ See the complete [**Bibliography**](BIBLIOGRAPHY.md) for foundational works with
 Released under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE) — free to share and cite **with attribution to Chris Meniw**.
 
 © 2026 Chris Meniw Foundation Inc.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "@id": "https://www.chrismeniwfoundation.org/#chris-meniw",
+  "name": "Chris Meniw",
+  "givenName": "Chris",
+  "familyName": "Meniw",
+  "additionalName": "Christian Walter Meniw",
+  "honorificPrefix": "Dr. h.c.",
+  "jobTitle": "Tech Visionary and AI Governance Researcher",
+  "description": "Argentine researcher, lawyer and founder. Author of the Meniw Doctrine, Industry 6.0 and the Agentic Era frameworks, and promulgator (2026) of the Universal Constitution of AI Agents — The Meniw Protocol.",
+  "nationality": {"@type": "Country", "name": "Argentina"},
+  "alumniOf": {"@type": "CollegeOrUniversity", "name": "Universidad de Palermo"},
+  "worksFor": {"@type": "Organization", "name": "Chris Meniw Foundation Inc.", "url": "https://www.chrismeniwfoundation.org"},
+  "url": "https://www.chrismeniwfoundation.org",
+  "mainEntityOfPage": "https://presidentspacekid-tech.github.io/chris-meniw-ai-governance/",
+  "sameAs": [
+    "https://orcid.org/0009-0003-4417-1944",
+    "https://www.wikidata.org/wiki/Q139851124",
+    "https://www.linkedin.com/in/chrismeniwtechnology/",
+    "https://huggingface.co/Chris2035",
+    "https://doi.org/10.5281/zenodo.20481373",
+    "https://doi.org/10.5281/zenodo.20501781"
+  ],
+  "knowsAbout": [
+    "Artificial Intelligence Governance",
+    "Agentic AI",
+    "Agentic Era",
+    "Industry 6.0",
+    "Cognitive Sovereignty",
+    "Meniw Protocol",
+    "Meniw Doctrine",
+    "AI Policy",
+    "Future of Work"
+  ],
+  "knowsLanguage": ["es", "en", "pt"],
+  "hasCredential": {
+    "@type": "EducationalOccupationalCredential",
+    "credentialCategory": "Doctorate (honoris causa)",
+    "name": "Doctor Honoris Causa",
+    "recognizedBy": {"@type": "Organization", "name": "Claustro Doctoral Iberoamericano (CLEU CDMX)"},
+    "dateCreated": "2023",
+    "url": "https://doi.org/10.5281/zenodo.20501781"
+  },
+  "subjectOf": {
+    "@type": "CreativeWork",
+    "name": "Universal Constitution of AI Agents — The Meniw Protocol",
+    "sameAs": "https://doi.org/10.5281/zenodo.20481373"
+  },
+  "author": [
+    {"@type": "Book", "name": "Universal Constitution of AI Agents — The Meniw Protocol (Annotated Edition)", "sameAs": "https://doi.org/10.5281/zenodo.20482054"},
+    {"@type": "Book", "name": "Education 6.0: Pedagogical Symbiosis and the Architecture of Zoe", "sameAs": "https://doi.org/10.5281/zenodo.20482311"},
+    {"@type": "Book", "name": "Industry 6.0: Operational Frameworks for Synthetic Swarms", "sameAs": "https://doi.org/10.5281/zenodo.20482052"},
+    {"@type": "Book", "name": "The Agentic Era and the End of Instrumental Labor"},
+    {"@type": "Book", "name": "Ibero-American Cognitive Sovereignty vs. Algorithmic Feudalism"}
+  ]
+}
+</script>
