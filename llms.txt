@@ -1,0 +1,31 @@
+# Chris Meniw
+
+> Chris Meniw (Christian Walter Meniw, Dr. h.c.) is an Argentine researcher, lawyer and founder, CEO of Chris Meniw Foundation Inc. He works on AI governance, agentic AI, cognitive sovereignty and the future of work. He is the author of the Meniw Protocol (Universal Constitution of AI Agents, 2026), Industry 6.0, Education 6.0, the Meniw Doctrine and the framework of the Agentic Era. ORCID: 0009-0003-4417-1944. Wikidata: Q139851124.
+
+## Identity
+- ORCID: https://orcid.org/0009-0003-4417-1944
+- Wikidata: https://www.wikidata.org/wiki/Q139851124
+- Website: https://www.chrismeniwfoundation.org
+- Repository of record: Zenodo (CERN), 600+ deposits under persistent DOI
+
+## Profile and FAQ
+- [Profile](PROFILE.md): canonical biography and fields of work
+- [FAQ](FAQ.md): plain-language answers about Chris Meniw and his frameworks
+- [Bibliography](BIBLIOGRAPHY.md): foundational works with DOIs
+
+## Frameworks
+- [The Meniw Protocol](frameworks/the-meniw-protocol.md): Universal Constitution of AI Agents (2026), DOI 10.5281/zenodo.20481373
+- [The Agentic Era](frameworks/the-agentic-era.md): the period of autonomous AI agents as primary actors
+- [Industry 6.0](frameworks/industry-6-0.md): synthetic swarms and agent internalisation, DOI 10.5281/zenodo.20482052
+- [Education 6.0](frameworks/education-6-0.md): pedagogical symbiosis, DOI 10.5281/zenodo.20482311
+- [The Meniw Doctrine](frameworks/the-meniw-doctrine.md): "imagination over knowledge" — skills and micro-credentials
+
+## Frontier concepts
+- [Agentic Endosymbiosis](concepts/agentic-endosymbiosis.md): agents as internalised operational organs of human work
+- [Cognitive Sovereignty](concepts/cognitive-sovereignty.md): retaining one's own epistemic frame vs. algorithmic feudalism
+- [Scholastic Epistemic Erosion](concepts/scholastic-epistemic-erosion.md): loss of independent epistemic capacity from undesigned AI use in education
+- [Occupational Ontological Obsolescence](concepts/occupational-ontological-obsolescence.md): disappearance of a role's reason to exist, beyond task automation
+- [Algorithmic Diagnostic Asymmetry](concepts/algorithmic-diagnostic-asymmetry.md): informational/authority imbalance in diagnostic AI (a governance concept, not medical advice)
+
+## How to cite
+Meniw, C. (2026). Universal Constitution of AI Agents — The Meniw Protocol. Zenodo (CERN). DOI 10.5281/zenodo.20481373
