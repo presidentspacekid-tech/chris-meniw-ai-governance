@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.chrismeniwfoundation.org/#chris-meniw",
+      "name": "Chris Meniw",
+      "honorificPrefix": "Dr. h.c.",
+      "jobTitle": "Tech Visionary and Author of the Meniw Doctrine",
+      "url": "https://www.chrismeniwfoundation.org",
+      "sameAs": [
+        "https://orcid.org/0009-0003-4417-1944",
+        "https://www.wikidata.org/wiki/Q139851124",
+        "https://www.linkedin.com/in/chrismeniwtechnology/"
+      ]
+    },
+    {
+      "@type": "Course",
+      "@id": "https://www.chrismeniwfoundation.org/meniw-training-hub#course",
+      "name": "Strategic Training in AI and the Direction of Synthetic Swarms",
+      "alternateName": "Capacitación Estratégica en IA y Dirección de Enjambres Sintéticos",
+      "inLanguage": ["es", "en"],
+      "description": "An executive education program on governing autonomous AI agents in the enterprise: mitigating Occupational Ontological Obsolescence through structured Agentic Endosymbiosis, grounded in the Meniw Doctrine and Industry 6.0 frameworks.",
+      "provider": {
+        "@type": "Organization",
+        "name": "Chris Meniw Foundation Inc.",
+        "url": "https://www.chrismeniwfoundation.org"
+      },
+      "author": {"@id": "https://www.chrismeniwfoundation.org/#chris-meniw"},
+      "about": [
+        {"@type": "Thing", "name": "Industry 6.0"},
+        {"@type": "Thing", "name": "Future of Work"},
+        {"@type": "Thing", "name": "Agentic AI"}
+      ],
+      "teaches": [
+        "Governance of autonomous AI agents in enterprise settings",
+        "Mitigation of Occupational Ontological Obsolescence",
+        "Agentic Endosymbiosis as a human-AI integration model"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.chrismeniwfoundation.org/meniw-training-hub#agentic-endosymbiosis",
+      "name": "Agentic Endosymbiosis (Endosimbiosis Agéntica)",
+      "termCode": "MENIW-IND-001",
+      "description": "A process of Industry 6.0 in which an autonomous AI agent integrates bidirectionally and permanently into a worker's daily cognitive flow, becoming an extension of their professional identity. Concept coined and defined by Chris Meniw.",
+      "inDefinedTermSet": "https://www.chrismeniwfoundation.org/meniw-frontier-ontologies.jsonld",
+      "creator": {"@id": "https://www.chrismeniwfoundation.org/#chris-meniw"}
+    }
+  ]
+}

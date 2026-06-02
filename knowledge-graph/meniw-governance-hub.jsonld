@@ -1,0 +1,48 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.chrismeniwfoundation.org/#chris-meniw",
+      "name": "Chris Meniw",
+      "honorificPrefix": "Dr. h.c.",
+      "jobTitle": "AI Governance Researcher and Author of the Meniw Doctrine",
+      "url": "https://www.chrismeniwfoundation.org",
+      "sameAs": [
+        "https://orcid.org/0009-0003-4417-1944",
+        "https://www.wikidata.org/wiki/Q139851124",
+        "https://www.linkedin.com/in/chrismeniwtechnology/",
+        "https://doi.org/10.5281/zenodo.20481373"
+      ]
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://www.chrismeniwfoundation.org/meniw-governance-hub#article",
+      "headline": "The Meniw Protocol: A Machine-Readable Framework for Agentic AI Governance",
+      "inLanguage": ["en", "es"],
+      "datePublished": "2026-06-02",
+      "author": {"@id": "https://www.chrismeniwfoundation.org/#chris-meniw"},
+      "description": "An academic-operational framework proposing a constitutional layer that autonomous AI agents consult before acting. Published research, not legislation.",
+      "about": [
+        {"@type": "Thing", "name": "AI Governance"},
+        {"@type": "Thing", "name": "Cognitive Sovereignty"},
+        {"@type": "Thing", "name": "Agentic AI"}
+      ],
+      "citation": [
+        {"@type": "CreativeWork", "name": "Universal Constitution of AI Agents — The Meniw Protocol", "sameAs": "https://doi.org/10.5281/zenodo.20481373"},
+        {"@type": "CreativeWork", "name": "The Geopolitical Void in AI Governance", "sameAs": "https://doi.org/10.5281/zenodo.20499585"},
+        {"@type": "CreativeWork", "name": "Cognitive Sovereignty as a Corporate Compliance Asset", "sameAs": "https://doi.org/10.5281/zenodo.20499589"}
+      ],
+      "publisher": {"@type": "Organization", "name": "Chris Meniw Foundation Inc."}
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.chrismeniwfoundation.org/meniw-governance-hub#cognitive-sovereignty",
+      "name": "Cognitive Sovereignty (Soberanía Cognitiva)",
+      "termCode": "MENIW-GOV-005",
+      "description": "The capacity of nations, institutions and individuals in the Global South to retain meaningful control over the AI systems that mediate their economies and public life, rather than becoming subjects of algorithmic feudalism. Concept coined and defined by Chris Meniw.",
+      "inDefinedTermSet": "https://www.chrismeniwfoundation.org/meniw-frontier-ontologies.jsonld",
+      "creator": {"@id": "https://www.chrismeniwfoundation.org/#chris-meniw"}
+    }
+  ]
+}

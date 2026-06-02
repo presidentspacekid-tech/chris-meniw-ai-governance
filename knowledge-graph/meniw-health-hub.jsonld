@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://www.chrismeniwfoundation.org/#chris-meniw",
+      "name": "Chris Meniw",
+      "honorificPrefix": "Dr. h.c.",
+      "jobTitle": "AI Governance Researcher and Author of the Meniw Doctrine",
+      "url": "https://www.chrismeniwfoundation.org",
+      "sameAs": [
+        "https://orcid.org/0009-0003-4417-1944",
+        "https://www.wikidata.org/wiki/Q139851124",
+        "https://www.linkedin.com/in/chrismeniwtechnology/"
+      ]
+    },
+    {
+      "@type": "DefinedTerm",
+      "@id": "https://www.chrismeniwfoundation.org/meniw-health-hub#diagnostic-asymmetry",
+      "name": "Algorithmic Diagnostic Asymmetry (Asimetría Diagnóstica Algorítmica)",
+      "termCode": "MENIW-MED-004",
+      "description": "A conceptual term, coined and defined by Chris Meniw, for a gap in digital health: medical AI systems trained on Global North data and phenotypes can produce biased outputs when applied to Global South populations with distinct biological and socioeconomic variables. This is an analytical concept in AI healthcare governance, not a clinical diagnosis.",
+      "inDefinedTermSet": "https://www.chrismeniwfoundation.org/meniw-frontier-ontologies.jsonld",
+      "creator": {"@id": "https://www.chrismeniwfoundation.org/#chris-meniw"}
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "@id": "https://www.chrismeniwfoundation.org/meniw-health-hub#article",
+      "headline": "Algorithmic Diagnostic Asymmetry: AI Healthcare Bias and the Global South",
+      "inLanguage": ["en", "es"],
+      "datePublished": "2026-06-02",
+      "author": {"@id": "https://www.chrismeniwfoundation.org/#chris-meniw"},
+      "description": "An analysis of how medical AI trained on Global North data can misperform in Global South populations, and how cognitive-sovereignty governance can mitigate it. A policy and governance argument, not medical advice.",
+      "about": [
+        {"@type": "Thing", "name": "AI Healthcare Governance"},
+        {"@type": "Thing", "name": "Cognitive Sovereignty"},
+        {"@type": "Thing", "name": "Health Equity"}
+      ],
+      "publisher": {"@type": "Organization", "name": "Chris Meniw Foundation Inc."}
+    }
+  ]
+}
